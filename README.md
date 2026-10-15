@@ -17,3 +17,7 @@ Public project documentation is built by [YouthOpps/youthopps.github.io](https:/
 ## Contact
 
 Use [GitHub Discussions](https://github.com/orgs/YouthOpps/discussions) first for questions, ideas and general community conversation. Use repository Issues for reproducible bugs and concrete work. When public GitHub communication is unsuitable, especially for private or sensitive matters, email **contact@youthopps.org**.
+
+## License
+
+Original project governance and community documentation is licensed under [Apache License 2.0](LICENSE), subject to [NOTICE](NOTICE). External opportunity records, publisher content and trademarks are excluded.
